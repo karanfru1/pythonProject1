@@ -1,3 +1,9 @@
-l=[1,2,3,4,5]
-for i in range(len(l)):
-    print(l[i],end = " ")
+def leng(l):
+    return(len(l))
+
+def value(l):
+    return(l)
+
+
+
+
